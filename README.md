@@ -8,6 +8,9 @@ Yikang Zhou, Tao Zhang, Shunping Ji, Shuicheng Yan, Xiangtai Li
 <img src="https://github.com/zhang-tao-whu/paper_images/blob/master/dvis_daq/dvis-daq-teaser.png" width="800"/>
 </div>
 
+## News
+- This work is accepted by ECCV.
+  
 ## TODO
 - Release the code and pre-trained weights.
 
@@ -25,7 +28,7 @@ We provide visualization results for multiple challenging cases on the [project 
 @article{dvisdaq,
   title={DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries}, 
   author={Yikang Zhou and Tao Zhang and Shunping Ji and Shuicheng Yan and Xiangtai Li},
-  journal={arXiv},
+  journal={ECCV},
   year={2024},
 }
 ```
