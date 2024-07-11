@@ -9,7 +9,7 @@ Yikang Zhou, Tao Zhang, Shunping Ji, Shuicheng Yan, Xiangtai Li
 </div>
 
 ## News
-- This work is accepted by ECCV.
+- This work is accepted by ECCV-2024.
   
 ## TODO
 - Release the code and pre-trained weights.
